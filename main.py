@@ -1,2 +1,6 @@
+class Calculator:
+    def add(self, a, b):
+        return a+b
 
-print("Hello Word")
+    def substract(self, a, b):
+        return a-b
